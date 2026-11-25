@@ -1,1 +1,1 @@
-# TechnicalAnalysis-
+# TechnicalAnalysis
